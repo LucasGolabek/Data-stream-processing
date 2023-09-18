@@ -1,2 +1,2 @@
-# streams21
+# Data streams processing
 Przetwarzanie strumieni danych
