@@ -1,2 +1,4 @@
 # Data streams processing
-Przetwarzanie strumieni danych
+
+
+Old lists of assignments from college classes
